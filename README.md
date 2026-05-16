@@ -97,11 +97,13 @@ const Mykelsown = {
 
 <br/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Mykelsown&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mykelsown&theme=tokyonight" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mykelsown&theme=tokyonight" alt="Top Languages" />
 
 <br/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mykelsown&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=Mykelsown&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 
 </div>
 
