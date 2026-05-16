@@ -97,11 +97,11 @@ const Mykelsown = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mykelsown&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Mykelsown&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mykelsown&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mykelsown&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
 
 </div>
 
