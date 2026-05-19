@@ -84,8 +84,8 @@ const Mykelsown = {
 
 | Project | What's Being Built |
 |---|---|
-| **KSI Store** | Online gadget store selling phones, computers & electronics across Nigeria — coming soon 🇳🇬 |
-| **Sudoku Solver (Go)** | Experimental Go-based Sudoku solver — currently cracking the backtracking algorithm 🧩 |
+| **KSI Store** | Online gadget store selling phones, computers & electronics across Nigeria — coming soon |
+| **Sudoku Solver (Go)** | Experimental Go-based Sudoku solver — currently cracking the backtracking algorithm |
 
 ---
 
@@ -112,11 +112,11 @@ const Mykelsown = {
 ## When I'm Not Coding
 
 ```
-🏋️  Working out        — Pain is not the signal to stop. It's the signal to go harder.
-🎤  Solo singing        — Full concert mode. No audience needed.
-🎌  Watching Anime      — For the plot. And the power-ups.
-🍜  Eating              — Fueling the machine. Non-negotiable.
-💻  Still coding        — Who am I kidding?
+ Working out        — Pain is not the signal to stop. It's the signal to go harder.
+ Solo singing        — Full concert mode. No audience needed.
+ Watching Anime      — For the plot. And the power-ups.
+ Eating              — Fueling the machine. Non-negotiable.
+ Still coding        — Who am I kidding?
 ```
 
 ---
