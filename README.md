@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```js
 const Mykelsown = {
@@ -32,9 +32,9 @@ const Mykelsown = {
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🗣️ Languages
+### Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -42,15 +42,15 @@ const Mykelsown = {
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-### 🗄️ Databases & DevOps
+### Databases & DevOps
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-### 🛠️ Tools
+### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mykelsown)
 [![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://gitea.io/)
@@ -58,7 +58,7 @@ const Mykelsown = {
 
 ---
 
-## 📖 Currently Leveling Up
+## Currently Leveling Up
 
 > *"mada da — the arc isn't over yet."*
 
@@ -68,9 +68,9 @@ const Mykelsown = {
 
 ---
 
-## ✅ Completed Projects
+## Completed Projects
 
-| 🚀 Project | 📝 Description | 🔗 |
+| Project | Description | links |
 |---|---|---|
 | **WINET Registration Form** | React + Vite frontend module for a 3-Day Web Design & AI Tutor registration system | [View →](https://github.com/Mykelsown/winet-registration-form) |
 | **Skin By Wura** | Full e-commerce platform for skincare discovery and purchase — seamless, fast, elegant | [View →](https://github.com/Mykelsown/Skin-By-Wura) |
@@ -80,16 +80,16 @@ const Mykelsown = {
 
 ---
 
-## 🔧 In Progress — *The Arc Continues...*
+## In Progress — *The Arc Continues...*
 
-| ⚔️ Project | 🔩 What's Being Built |
+| Project | What's Being Built |
 |---|---|
 | **KSI Store** | Online gadget store selling phones, computers & electronics across Nigeria — coming soon 🇳🇬 |
 | **Sudoku Solver (Go)** | Experimental Go-based Sudoku solver — currently cracking the backtracking algorithm 🧩 |
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -109,7 +109,7 @@ const Mykelsown = {
 
 ---
 
-## 🍜 When I'm Not Coding
+## When I'm Not Coding
 
 ```
 🏋️  Working out        — Pain is not the signal to stop. It's the signal to go harder.
